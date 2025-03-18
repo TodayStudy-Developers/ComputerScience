@@ -17,7 +17,7 @@
 ## 🗓️ Week 링크
 |Week N | 주제  | wiki |
 |:--:|:--:|:--:|
-|1| 컴퓨터 구조 시작하기 | [week 1 wiki]() |
+|1| 컴퓨터 구조 시작하기 | [week 1 wiki](https://github.com/TodayStudy-Developers/ComputerScience/wiki/20250305-%E2%80%90-1%ED%9A%8C%EC%B0%A8-%EC%8A%A4%ED%84%B0%EB%94%94) |
 |2| 데이터 | [week 2 wiki]() |
 
 <br>
